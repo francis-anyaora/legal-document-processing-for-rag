@@ -160,7 +160,7 @@ The resulting Markdown documents are intended to provide a consistent textual fo
 
 ## Project Scope
 
-This repository focuses on the technical processes, tools, and methods involved in preparing statutory and case-law documents for RAG.
+This repository focuses on the technical processes, tools, and methods involved in preparing statutory and case law documents for RAG.
 
 It does not reproduce confidential source materials or identify private document collections. Supporting scripts and workflow documentation may be included in sanitised form to demonstrate the processing methods.
 
